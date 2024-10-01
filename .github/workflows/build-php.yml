@@ -43,7 +43,7 @@ jobs:
       - run: php ./index.php
       - run: rm -rf vendor/
 
-      - name: Commit report
+      - name: Commit built pages in _site folder
         run: |
           git config --global user.name 'ContentedWeb'
           git config --global user.email 'contentedweb@users.noreply.github.com'
@@ -51,11 +51,11 @@ jobs:
           git commit -m "Pushed from GitHub Actions"
           git push
           
-#      - name: Deploy
-#        uses: peaceiris/actions-gh-pages@v4.0.0
-#        with:
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4.0.0
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: _site 
 #            #personal_token: ${{ secrets.PERSONAL_TOKEN }}
-#            github_token: ${{ secrets.GITHUB_TOKEN }}
-#            publish_dir: _site 
 #            publish_branch: main
 #            #external_repository: ${{github.actor}}/${{github.actor}}.github.io
