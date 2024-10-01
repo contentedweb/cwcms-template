@@ -1,6 +1,6 @@
 ---
 title: Post in 2024
-date: 2024-02-110 12:00:00 Z
+date: 2024-10-02 12:00:00 Z
 tags:
 - general
 ---
