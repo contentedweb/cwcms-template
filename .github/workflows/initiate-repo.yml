@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  repository-projects: write
   
 # see https://jmh.me/blog/build-deploy-php-application-with-github-actions
 jobs:
