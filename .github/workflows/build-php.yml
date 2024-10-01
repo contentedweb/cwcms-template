@@ -23,7 +23,7 @@ jobs:
       - name: Checkout index.php
         uses: actions/checkout@v4
         with:
-          repository: robindotis/cwcms
+          repository: contentedweb/cwcms
           path: cwcms
         
       - run: cp ./cwcms/index.php index.php
