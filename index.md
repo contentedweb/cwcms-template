@@ -6,11 +6,11 @@ permalink: /
   
 <article class="welcome" id="skip-content-target">
 
-  # 👋 Welcome!
+# 👋 Welcome!
 
-  This is your site where!
+This is your site!
 
-  To add content please see the [instructions here](https://www.contentedweb.com/).
+To add content please see the [instructions here](https://www.contentedweb.com/).
   
  
 </article>
