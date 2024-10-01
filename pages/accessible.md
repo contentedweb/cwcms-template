@@ -1,22 +1,19 @@
 ---
 title: Accessibility Statement
-menuLocation: bottom
-eleventyNavigation:
-  key: Accessibility
-  order: 100
-date: 2021-02-03 12:00:00 Z
-modified: 2024-02-23 12:00:00 Z
+modified: 2024-10-01 12:00:00 Z
 ---
 
-I am committed to making and keeping its websites accessible. This accessibility statement applies to all content on the robin.is website.
+By default we have tried to make this template and contente management system accessible. It is good practice to have an accessibility statement on your website. This statement informs your users about the accessibility status of your website. You should review it regularly to make sure it is accurate. You should also ensure that your content is accessible.
 
 ## Compliance status
 
-This website is fully compliant with [WCAG 2 Level AA](https://www.w3.org/TR/WCAG2/) when using the **default** or **high contrast** themes. Other themes may have accessibility issues, usually due to insufficient contrast.
+In this section you should state your compliant status. By default this template should be fully compliant.
+
+This website is fully compliant with [WCAG 2 Level AA](https://www.w3.org/TR/WCAG2/).
 
 ### Explanation
 
-No web accessibiltiy law directly applies to this site. Nevertheless, since I live in the European Union, I try to ensure the site meets the relevant requirements of these two pieces of European Union legislation.
+No web accessibiltiy law directly applies to this site. Nevertheless, since the creators of this template are based in the European Union, template should ensure the site meets the relevant requirements of these two pieces of European Union legislation.
 
 * The [Web Accessibiliy Directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) - ([Directive (EU) 2016/2102](https://eur-lex.europa.eu/eli/dir/2016/2102/oj)).
 * The [European Accessibility Act](https://ec.europa.eu/social/main.jsp?catId=1202) - ([Directive (EU) 2019/882](https://eur-lex.europa.eu/eli/dir/2019/882/oj)).
@@ -31,16 +28,16 @@ There is no non-accessible content on this website.
 
 ## Preparation of this accessibility statement
 
-This statement was prepared on 1st January 2021 using automated and manual accessibility checkers done by the authors of the content. 
+This statement was prepared on 1st October 2024 using automated and manual accessibility checkers done by the authors of the content. 
 
-It was last reviewed on 2nd February 2024. No changes were needed, but further explanations were added to the compliance status section above.
+It was last reviewed on 1st October February 2024. No changes were needed.
 
-The next review is scheduled for January 2025.
+The next review is scheduled for 1st October 2025.
 
 ## Feedback and contact information
 
-Since this is a personal blog, I do not wish to publish my contact details on the web. A short google search might bring up some useful ways of contacting me about this site or anything really.
+If you wish your users to be able to contact you abour accessibiltiy issues regarding this website, you can provide your contact information here.
 
 ## Enforcement procedure
 
-Since I am not a public sector body, I do not provide an enforcement procedure. The content on this website is provided "as is" for information only.  It is not to be used as legal advice or as a definitive source for creating accessible web content.
+Should your website fall under any specific accessibility law, you should provide details about the applicable an enforcement procedure here. The content on this website is provided "as is" for information only.  It is not to be used as legal advice or as a definitive source for creating accessible web content.

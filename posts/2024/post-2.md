@@ -1,13 +1,11 @@
 ---
-title: Global Age Assurance Summit Manchester
-date: 2024-04-11 17:47:29 Z
+title: Post in 2024
+date: 2024-02-110 12:00:00 Z
 tags:
-- travel
-- work
-- age assurance
-- manchester
+- general
 ---
 
-Last week I was in Manchester for three days to give a presentation on the "EU approach to age assurance and age verification", at the [Global Age Assurance Summit](https://events.ringcentral.com/events/global-age-assurance-standards-summit/registration) and see [the compendium here](https://accscheme.com/gaass/). My 15 minute presentation went well and there were plenty of questions afterwards to fill the remaining 10 minutes. 
+This is a second example post.
 
-The event was interesting, showing the amount of effort that is going into keeping children safe online. This is something that should have been happening 20 years ago. 
+Any posts placed within the posts folder, including any sub-folders, will be included in the posts archive page. 
+
