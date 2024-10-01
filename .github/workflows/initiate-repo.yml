@@ -1,7 +1,6 @@
 name: Initiate Repo
 
 on:
-  create:
   workflow_dispatch:
 
 permissions:
