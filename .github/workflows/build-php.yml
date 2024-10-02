@@ -23,12 +23,12 @@ jobs:
       - name: Checkout index.php
         uses: actions/checkout@v4
         with:
-          repository: contentedweb/cwcms
-          path: cwcms
+          repository: contentedweb/cwcms-script
+          path: cwcms-script
         
-      - run: cp ./cwcms/index.php index.php
-      - run: cp ./cwcms/composer.json composer.json
-      - run: rm -rf cwcms/
+      - run: cp ./cwcms-script/index.php index.php
+      - run: cp ./cwcms-script/composer.json composer.json
+      - run: rm -rf cwcms-script/
 #      - run: ls -a
 #      - run: echo "${{github.actor}}"
         
